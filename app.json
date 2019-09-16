@@ -1,0 +1,29 @@
+{
+  "id": "2e68c326-8d76-421a-a42c-549467c7ebf6",
+  "name": "Beer",
+  "publisher": "Student",
+  "version": "1.0.0.0",
+  "brief": "My first App",
+  "description": "My first app using extensions 2.0",
+  "privacyStatement": "https://www.1clickfactory.com/company-resources/company/about-us/",
+  "EULA": "https://www.1clickfactory.com/company-resources/company/contacts/",
+  "help": "https://www.1clickfactory.com/support/1clickfactory-support-services/",
+  "url": "https://www.1clickfactory.com/support/1clickfactory-support-services/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Beer.com/help/",
+  "showMyCode": true,
+  "runtime": "3.2",
+  "features": [
+    "TranslationFile" 
+  ]
+}
